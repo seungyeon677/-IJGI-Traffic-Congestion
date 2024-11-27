@@ -1,4 +1,4 @@
-## Assessment of Spatial, Temporal, and Regional Patterns of Traffic Congestion in Metro Atlanta Using distanceTime Measurements
+## A Study of Spatial, Temporal, and Regional Traffic Congestion Patterns in Metro Atlanta with DistanceTime Metrics
 
 Sampled Cities: Roswell, Lawrenceville, Decatur, Avondale Estates, Clarkston (Georgia, USA)
 
