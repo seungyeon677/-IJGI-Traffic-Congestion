@@ -1,4 +1,4 @@
-## A Study of Spatial, Temporal, and Regional Traffic Congestion Patterns in Metro Atlanta with DistanceTime Metrics
+## Beyond the Road: A Regional Perspective on Traffic Congestion in Metro Atlanta
 
 Sampled Cities: Roswell, Lawrenceville, Decatur, Avondale Estates, Clarkston (Georgia, USA)
 
